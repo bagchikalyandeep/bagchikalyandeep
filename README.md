@@ -1,8 +1,8 @@
 ### 👋, I'm KD
 
-<!--- **bagchikalyandeep/bagchikalyandeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!--- **bagchikalyandeep/bagchikalyandeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on ... database optimization using python and shell
 - 🌱 I’m currently learning ... Python and Redis
