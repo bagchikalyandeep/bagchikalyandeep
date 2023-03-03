@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on ... database optimization using python and shell
+- 🔭 I’m currently working on ... database deloyment automation using python, shell and ansible
 - 🌱 I’m currently learning ... Python and Redis
 - 👯 I’m looking to collaborate on ... python
 - 🤔 I’m looking for help with ... 
